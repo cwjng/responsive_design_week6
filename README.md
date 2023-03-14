@@ -1,1 +1,1 @@
-# responsive_design_week6
+# mobile-grid
